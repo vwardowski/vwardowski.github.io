@@ -1,0 +1,45 @@
+  <style>
+   img {
+    margin: 200px 0px 0px 0px ;
+   }
+   body {
+    Font-family: mark;
+    background: white;
+   }
+   img {
+    
+   }
+   header {
+    text-align: center;
+    background-size: cover;
+    background: #cbffcb;
+    margin: 0 auto;
+   }
+   h2 {
+    font-family: helvetica;
+    text-align: center;
+    font-size: 30px;
+
+   }
+   h1 {
+    color: #fff;
+    font-size: 80px;
+    margin: 0px;
+   }
+   p {
+    font-family: helvetica;
+    margin: 20px 50px 20px 50px;
+   }
+   article {
+    text-align: center;
+   }
+   ul {
+    padding: 10px;
+    background: rgba(255,127,71,1);
+   }
+   li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+      color: orange;
+   }
+  </style>

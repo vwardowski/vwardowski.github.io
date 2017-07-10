@@ -6,40 +6,43 @@
     Font-family: mark;
     background: white;
    }
-   img {
-    
-   }
    header {
     text-align: center;
     background-size: cover;
-    background: #cbffcb;
+    background: #98ffcc;
     margin: 0 auto;
    }
    h2 {
-    font-family: helvetica;
     text-align: center;
-    font-size: 30px;
-
+    font-size: 40px;
+    font-family: 'Questrial', sans-serif;
+   }
+   img {
+    text-align: center;
    }
    h1 {
     color: #fff;
-    font-size: 80px;
+    font-size: 100px;
     margin: 0px;
+   }
+   div {
+    text-align: center;
    }
    p {
     font-family: helvetica;
     margin: 20px 50px 20px 50px;
+    font-size: 20px;
+    font-family: 'Questrial', sans-serif;
    }
-   article {
-    text-align: center;
-   }
+
    ul {
     padding: 10px;
-    background: rgba(255,127,71,1);
+    background: rgba(255,182,193,1);
    }
    li {
-      display: inline;
-      padding: 0px 10px 0px 10px;
-      color: orange;
+    display: inline;
+    padding: 0px 10px 0px 10px;
+    color: #ffff00;
+    font-family: 'Questrial', sans-serif;
    }
   </style>

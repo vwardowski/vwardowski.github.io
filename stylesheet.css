@@ -4,6 +4,7 @@
    body {
     Font-family: mark;
     background: white;
+    text-align: center;
    }
    header {
     text-align: center;
@@ -57,4 +58,6 @@
     margin: 0 auto;
     max-width: 750px;
    }
-   
+   img {
+    text-align: center;
+   }
